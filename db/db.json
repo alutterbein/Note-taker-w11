@@ -1,1 +1,6 @@
-[{"title":"Test Title","text":"Test text"},{"title":"Groceries","text":"carrots, apples, onions\n","note_id":"6ac"},{"title":"Test Test Test","text":"note text","id":"f06"},{"title":"Car Parts","text":"bumber","id":"1e2"}]
+[
+    {
+        "title":"Test Title",
+        "text":"Test text"
+    }
+]
